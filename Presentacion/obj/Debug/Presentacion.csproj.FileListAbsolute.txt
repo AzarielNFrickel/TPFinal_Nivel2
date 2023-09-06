@@ -1,0 +1,9 @@
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\azaaf\Desktop\TPFinal.C# Nivel 2\TPFinalNivel2_AzarielFrickel\Presentacion\obj\Debug\Presentacion.pdb
